@@ -25,57 +25,35 @@ My technical skills include:
 
 ---
 
-## Projects
+##  Projects
 
-### 1. Customer Segmentation using K-Means Clustering
+### 📌 Customer Segmentation using K-Means Clustering
 
-- Customer behavior analysis
-- Data preprocessing
-- Feature engineering
-- StandardScaler
-- PCA
-- K-Means Clustering
-- Cluster Evaluation
-- Business Insights
+A machine learning project that segments customers into meaningful groups based on purchasing behavior using K-Means clustering.
+
+**Technologies:** Python, Pandas, Scikit-learn, PCA, StandardScaler, Matplotlib
+
+➡️ **[View Project](Customer%20Segmentation)**
 
 ---
 
-### 2. NLP-based Resume Classification System
+### 📌 NLP-based Resume Classification System
 
-- Resume Classification
-- Natural Language Processing
-- TF-IDF Vectorization
-- SVM
-- Random Forest
-- Logistic Regression
-- Naive Bayes
-- XGBoost
-- Streamlit Deployment
+An AI-powered application that automatically classifies resumes into job categories using NLP and machine learning.
+
+**Technologies:** Python, TF-IDF, SVM, Random Forest, XGBoost, Streamlit
+
+➡️ **[View Project](Resume%20Classification)**
 
 ---
 
-### 3. Bankruptcy Prediction using Machine Learning
+### 📌 Bankruptcy Prediction using Machine Learning
 
-- Data Cleaning
-- Feature Engineering
-- Random Forest
-- Model Evaluation
-- Streamlit Deployment
+A binary classification project that predicts company bankruptcy risk using machine learning and Streamlit.
 
----
+**Technologies:** Python, Random Forest, Scikit-learn, Streamlit
 
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Streamlit
-- Joblib
-- XGBoost
-
+➡️ **[View Project](Bankruptcy%20Prevention)**
 ---
 
 ## Contact
