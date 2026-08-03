@@ -7,3 +7,4 @@ joblib
 xgboost
 matplotlib
 seaborn
+PyPDF2
