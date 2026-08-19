@@ -53,7 +53,8 @@ A binary classification project that predicts company bankruptcy risk using mach
 
 **Technologies:** Python, Random Forest, Scikit-learn, Streamlit
 
-➡️ **[`Bankruptcy_Prevention`](./Bankruptcy_Prevention)**
+➡️ **[View Project](./Bankruptcy_Prevention)**
+
 ---
 
 ## Contact
