@@ -28,7 +28,7 @@ st.caption("From raw customers → actionable marketing decisions")
 # ----------------------------------------------------------
 @st.cache_data
 def load_data():
-    return pd.read_excel("marketing_campaign.xlsx")
+    return pd.read_excel("Customer_Segmentation/marketing_campaign.xlsx")
 
 df_raw = load_data()
 
