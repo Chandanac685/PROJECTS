@@ -1,5 +1,7 @@
 # Customer Segmentation using K-Means Clustering
 
+🚀 **Live Demo:** [Customer Segmentation App](https://chandana-customer-segmentation-app.streamlit.app/)
+
 ## Project Overview
 
 This project analyzes customer purchasing behavior and segments customers into meaningful groups using K-Means Clustering.
