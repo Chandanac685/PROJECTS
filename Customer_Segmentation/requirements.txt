@@ -1,0 +1,9 @@
+streamlit==1.47.1
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+scikit-learn==1.5.1
+scipy==1.14.1
+gower==0.1.2
+joblib==1.4.2
+openpyxl==3.1.5
