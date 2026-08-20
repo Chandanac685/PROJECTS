@@ -1,5 +1,7 @@
 # Bankruptcy Prediction using Machine Learning
 
+🚀 **Live Demo:** [Bankruptcy Prediction App](https://chandana-bankruptcy-prevention-app.streamlit.app/)
+
 ## Project Overview
 
 This project predicts whether a company is likely to face bankruptcy using Machine Learning techniques.
