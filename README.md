@@ -1,66 +1,79 @@
-# Data Science Projects Portfolio
+# Chandana C
 
-Welcome to my Data Science Portfolio!
+### Data Analyst | Data Science Enthusiast
 
-This repository contains end-to-end Machine Learning and Data Science projects developed using Python, SQL, Scikit-learn, Streamlit, and various data analysis techniques.
+Welcome to my project portfolio!  
+This repository contains my practical projects in **Data Analysis, Machine Learning, and Data Science**.
 
-## About Me
+---
 
-Hi, I'm **Chandana C**.
+## 🚀 Projects
 
-I am a Statistics postgraduate with a strong interest in Data Analysis, Machine Learning, NLP, and Artificial Intelligence.
+### 1. Bankruptcy Prevention
 
-My technical skills include:
+A Machine Learning project that predicts whether a company is at risk of bankruptcy based on financial and business risk indicators.
 
-- Python
-- SQL
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Streamlit
+
+🔗 [View Project](./Bankruptcy_Prevention)
+
+🚀 [Live Demo](https://chandana-bankruptcy-prevention-app.streamlit.app/)
+
+---
+
+### 2. Customer Segmentation
+
+A Machine Learning project that segments customers into meaningful groups based on their purchasing behavior.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Gower Distance, K-Means, Streamlit
+
+🔗 [View Project](./Customer%20Segmentation)
+
+🚀 Live Demo — Coming Soon
+
+---
+
+### 3. Resume Classification
+
+A Machine Learning project that classifies resumes into relevant job categories using Natural Language Processing and Machine Learning techniques.
+
+**Tech Stack:** Python, Pandas, Scikit-learn, NLP
+
+🔗 [View Project](./Resume%20Classification)
+
+🚀 Live Demo — Coming Soon
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn
+- **NLP:** Natural Language Processing
+- **Deployment:** Streamlit
+- **Tools:** Jupyter Notebook, Git, GitHub
+
+---
+
+## 📊 Areas of Interest
+
+- Data Analysis
+- Exploratory Data Analysis
 - Machine Learning
-- Statistics
+- Customer Analytics
+- Predictive Modeling
+- Business Intelligence
 - Data Visualization
-- Streamlit
-- Tableau
-- Scikit-learn
-- Pandas
-- NumPy
 
 ---
 
-##  Projects
+## 📫 Connect With Me
 
-### 📌 Customer Segmentation using K-Means Clustering
-
-A machine learning project that segments customers into meaningful groups based on purchasing behavior using K-Means clustering.
-
-**Technologies:** Python, Pandas, Scikit-learn, PCA, StandardScaler, Matplotlib
-
-➡️ **[View Project](Customer%20Segmentation)**
+- GitHub: [Chandanac685](https://github.com/Chandanac685)
+- LinkedIn: **https://www.linkedin.com/in/chandana-c-6b825529a**
 
 ---
 
-### 📌 NLP-based Resume Classification System
-
-An AI-powered application that automatically classifies resumes into job categories using NLP and machine learning.
-
-**Technologies:** Python, TF-IDF, SVM, Random Forest, XGBoost, Streamlit
-
-➡️ **[View Project](Resume%20Classification)**
-
----
-
-### 📌 Bankruptcy Prediction using Machine Learning
-
-A binary classification project that predicts company bankruptcy risk using machine learning and Streamlit.
-
-**Technologies:** Python, Random Forest, Scikit-learn, Streamlit
-
-➡️ **[View Project](./Bankruptcy_Prevention)**
-
----
-
-## Contact
-
-**Name:** Chandana C
-
-**Email:** chandanac7034@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/chandana-c-6b825529a
+⭐ Feel free to explore my projects and repositories!
