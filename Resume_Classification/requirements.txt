@@ -8,3 +8,4 @@ xgboost
 matplotlib
 seaborn
 PyPDF2
+python-docx
