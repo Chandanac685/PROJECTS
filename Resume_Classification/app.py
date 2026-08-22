@@ -4,6 +4,7 @@ import pandas as pd
 import re
 import zipfile
 import io
+import os
 from PyPDF2 import PdfReader
 from docx import Document
 
@@ -19,8 +20,10 @@ st.set_page_config(
 # -------------------------------
 # LOAD MODEL
 # -------------------------------
-model = pickle.load(open("model.pkl","rb"))
-vectorizer = pickle.load(open("vectorizer.pkl","rb"))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+model = pickle.load(open(os.path.join(BASE_DIR, "model.pkl"), "rb"))
+vectorizer = pickle.load(open(os.path.join(BASE_DIR, "vectorizer.pkl"), "rb"))
 
 # -------------------------------
 # HEADER
