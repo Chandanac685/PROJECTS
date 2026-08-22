@@ -1,5 +1,7 @@
 # NLP-based Resume Classification System
 
+🚀 **Live Demo:** [Resume Classification App](https://chandana-resume-classification-app.streamlit.app/)
+
 ## Project Overview
 
 This project automatically classifies resumes into different job categories using Natural Language Processing (NLP) and Machine Learning.
